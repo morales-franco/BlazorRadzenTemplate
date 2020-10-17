@@ -3,3 +3,6 @@
 ################################################################################
 
 /TemplateTest/.vs/TemplateTest/v16/Server/sqlite3
+/TemplateTest/TemplateTest/bin/Debug/netcoreapp3.1
+/TemplateTest/TemplateTest/obj
+/TemplateTest/.vs/TemplateTest/v16
